@@ -5,7 +5,7 @@
 
 #### Some of my Projects include:
 - Interactive Maps Web App : Using Pandas, Streamlit, & Folium
-- ASCII Animal Art Generator : Using Spring Boot & Core Java
+- ASCII Animal Art Generator : Using Vaadin Flow & Java Spring Boot
 
 Thank you!
 <!---
